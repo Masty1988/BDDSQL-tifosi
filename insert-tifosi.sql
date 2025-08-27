@@ -1,4 +1,3 @@
-CREATE DATABASE IF NOT EXISTS tifosi;
 USE tifosi;
 
 -- Marques
